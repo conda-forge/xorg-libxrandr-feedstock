@@ -1,8 +1,8 @@
 {% set xorg_name = "libXrandr" %}
 {% set xorg_category = "lib" %}
 {% set name = "xorg-" ~ xorg_name %}
-{% set version = "1.5.4" %}
-{% set sha256 = "1ad5b065375f4a85915aa60611cc6407c060492a214d7f9daf214be752c3b4d3" %}
+{% set version = "1.5.5" %}
+{% set sha256 = "72b922c2e765434e9e9f0960148070bd4504b288263e2868a4ccce1b7cf2767a" %}
 {% set am_version = "1.16" %} # keep synchronized with build.sh
 
 package:
